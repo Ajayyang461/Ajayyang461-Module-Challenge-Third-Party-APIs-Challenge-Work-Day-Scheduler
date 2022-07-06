@@ -5,7 +5,7 @@
 To build a workday scheduler so that our data can be stored into the local storage by using bootstrap and Jquery. As from our lessons, we haven't learned those yet. 
 ## Lessons Learned
 
-Lesson I have learned is little bit of bootstrap and moments to ge the current time and storing values in the local storage. 
+Lesson I have learned is little bit of bootstrap and moments to get the current time and storing values in the local storage. 
 
 
 ## Link
